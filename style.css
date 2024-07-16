@@ -1,0 +1,18 @@
+:root {
+  --color-primary: #e68369;
+  --font-primary: 32px;
+  --color-secondary: #131842;
+  --font-secondary: 18px;
+  --font-family: "roboto";
+}
+
+h1 {
+  color: var(--color-primary);
+  font-size: var(--font-primary);
+  font-family: var(--font-family);
+}
+
+p {
+  color: var(--color-secondary);
+  font-size: var(--font-secondary);
+}
